@@ -1,0 +1,10 @@
+click en fork
+Esperas a que acepte la solicitud.
+Despues agregas el repositorio a tu compu 
+(igual que como le hicimos al inicio del semestre)
+Copias el notebook que hiciste en el directorio del proyecto
+escribes en la terminal
+*git add nombredelnotebook.ipynb*
+*git commit -m "el mensaje que quieras"*
+*git push*
+Y en teorìa esos serìan todos los pasos.
